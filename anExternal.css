@@ -1,0 +1,22 @@
+#different {
+    width:500px;
+    height:500px;
+    margin-left: 300px;
+    border-radius:80px;
+}
+
+#dotted {
+    border-style: dotted;
+}
+
+#floated {
+    width:650px;
+    height:450px;
+    float:right;
+}
+  
+#rounded {
+    width:800px;
+    height:600px;
+    border-radius:60px;
+}
